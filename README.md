@@ -1,0 +1,2 @@
+# BinGo
+BinGo[test]
